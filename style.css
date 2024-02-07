@@ -46,6 +46,9 @@ marquee{
       font-size:30px;
       color:red;
 }
+marquee:hover{
+    color:grey;
+}
 select{
     border: 0;
     outline: 0;
